@@ -1,22 +1,38 @@
 Skills:
-  Technical Skills:
-    - skill: Android
-    - skill: Kotlin
-    - skill: Java
-    - skill: ROOM
-    - skill: Firebase
-    - skill: JetPack Compose
-    - skill: SQLite
-    - skill: C++ Programming
-    - skill: Figma
-    - skill: Amazon Web Services (AWS)
-
+  Technical Skills:  
+    Mobile App Development:
+      - skill: Android
+    Programming Languages:
+      - skill: Java
+      - skill: Kotlin
+      - skill: C++
+      - skill: Python
+    Databases:
+      - skill: SQLite
+      - skill: MySQL
+      - skill: Firebase
+    Frameworks and Libraries:
+      - skill: Android Jetpack
+      - skill: Room
+      - skill: Firebase
+      - skill: JetPack Compose
+    Version Control:
+      - skill: Git
+      - skill: GitHub
   Soft Skills:
     - skill: Leadership
     - skill: Event Management
-    - skill: Writing
     - skill: Public Speaking
     - skill: Time Management
+    - skill: Teamwork
+  Design Tools:
+    - skill: Figma
+    - skill: Adobe Photoshop
+  Other Skills:
+    - skill: Machine Learning
+    - skill: Cloud Computing
+    - skill: Blockchain
+    - skill: Amazon Web Services (AWS)
 
 # # Digital content development and creation
 # - skill: Digital content development and creation
