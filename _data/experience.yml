@@ -1,13 +1,13 @@
 # Jobs
 # VP of Global Communications
 - company: Personal Sported
-  position: Android App Developer 
+  position: Android App Developer
   duration: Aug 2023 - Oct 2023
-  summary: ◦ Developed backend infrastructure using Firebase for database and authentication.
-◦ Implemented Java-based backend for efficient app communication.
-◦ Enhanced user interface and experience by incorporating user feedback.
-◦ Overseeing the app deployment on the Google Play Store, managing the testing phase, and incorporating
-  valuable user feedback.
+  summary:
+    - Developed backend infrastructure using Firebase for database and authentication.
+    - Implemented Java-based backend for efficient app communication.
+    - Enhanced user interface and experience by incorporating user feedback.
+    - Oversaw the app deployment on the Google Play Store, managed the testing phase, and incorporated valuable user feedback.
 # # Director of Digital Stratgy
 # - company: United Nations Human Rights Council
 #   position: Director of Digital Strategy
