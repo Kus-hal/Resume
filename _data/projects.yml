@@ -2,15 +2,27 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Word Frenzy
+  # role: Founder & Primary Developer
+  # duration: 2012 &mdash; Present
+  url: "https://play.google.com/store/apps/details?id=com.BinaryCoders.wordfrenzy"
+  description:
+ - Developed the Android application ”WordFrenzy,” designed to unscramble words by generating all possible
+    combinations of scrambled words.
+- Optimized the unscrambling algorithm, significantly reducing time and space complexity, resulting in execution
+    times of under a second and minimal memory usage.
+- Implemented SQLite for efficient database management to enhance application functionality.
+- Utilized Figma for UI/UX design and animations, making the user interface interactive and visually appealing.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Weather APP
+  # role: Co-Founder & Organizer
+  # duration: 2007 &mdash; Present
+  url: "https://github.com/Kus-hal/WeatherAPP"
+  description: 
+  - Developed a weather forecasting Android application using Java. Integrated an API to fetch real-time weather
+      data for any city, state, or country. Managed JSON files to store and retrieve weather information
+      efficiently.
+- Designed an intuitive user interface to display detailed weather data at different time intervals.
+- Implemented offline functionality with automatic user location access for retrieving and displaying previously retrieved
+      weather data without an internet connection.

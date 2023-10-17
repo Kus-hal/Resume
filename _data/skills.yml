@@ -1,12 +1,32 @@
-# Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+Skills
+Technical Skills:
+- skill: Android
+- skill: Kotlin
+- skill: Java
+- skill: ROOM
+- skill: Firebase
+- skill: JetPack Compose
+- skill: SQLite
+- skill: MySQL
+- skill: SQL
+- skill: C++ Programming
+- skill: Machine Learning
+- skill: Git
+- skill: GitHub
+- skill: Database Management System (DBMS)
+- skill: Figma
+- skill: Animation
+- skill: Adobe Photoshop
+- skill: Cloud Computing
+- skill: Blockchain
+- skill: Amazon Web Services (AWS)
+- skill: Python
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+Soft Skills:
+- skill: Leadership
+- skill: Event Management
+- skill: Writing
+- skill: Public Speaking
+- skill: Time Management
+# # Digital content development and creation
+# - skill: Digital content development and creation
